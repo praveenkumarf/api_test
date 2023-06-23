@@ -1,0 +1,57 @@
+{
+    "job": {
+      "jobDetail": {
+        "detailInfo": {
+          "sizeOfApplication": "266793",
+          "transferTime": "27",
+          "unCompressedBytes": 266793,
+          "dataWritten": "0",
+          "dataXferedNetwork": "0",
+          "numOfObjects": 0,
+          "sizeOfMediaOnDisk": 0,
+          "savingsPercent": "100.00",
+          "startTime": 1497264303,
+          "throughPut": "0.03",
+          "endTime": 1497264332,
+          "compressedBytes": 0,
+          "skippedItems": 2
+        },
+        "generalInfo": {
+          "useScalableResourceAllocation": "Unavailable",
+          "backupType": "Unknown",
+          "jobStartedFrom": "Interactive",
+          "startTime": 1497264303,
+          "jobStartedBy": "testadmin",
+          "priority": -999,
+          "totalNumOfFiles": -999,
+          "jobId": 432,
+          "softwareCompression": "Off",
+          "systemState": "No",
+          "operationType": "Restore",
+          "taskData": {
+            "subtaskId": 198,
+            "taskName": "",
+            "taskId": 197
+          },
+          "subclient": {
+            "clientName": "firewalltestcs",
+            "instanceName": "DefaultInstanceName",
+            "backupsetId": 3,
+            "instanceId": 1,
+            "subclientId": 0,
+            "clientId": 2,
+            "appName": "Windows File System",
+            "backupsetName": "defaultBackupSet",
+            "applicationId": 33
+          },
+          "destinationClient": {
+            "clientName": "firewalltestcs"
+          }
+        },
+        "progressInfo": {
+          "reasonForJobDelay": "",
+          "state": "Completed"
+        }
+      }
+    }
+  }
